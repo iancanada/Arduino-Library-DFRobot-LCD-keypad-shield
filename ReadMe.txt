@@ -10,7 +10,7 @@
 
 DRF0009.h and DRF0009.cpp is DFRobot Ardunino C++ library:
 
-/DRF0009Demo folder is the demo code of how to use this library
+/DRF0009Demo folder is the Arduino demo sketch of how to use this library
 
 Demo code and library tested on Arduino UNO and MEGA2560
 
